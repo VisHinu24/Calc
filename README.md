@@ -75,15 +75,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column; /* Added to align items vertically */
+    flex-direction: column;
     height: 100vh;
     background-color: #93baec;
 }
 
 h2.text {
-    font-size: 20px; /* Adjust font size as needed */
+    font-size: 20px;
     color: #1b191c;
-    margin-bottom: 20px; /* Add some space below the h2 tag */
+    margin-bottom: 20px;
 }
 
 .calculator {
