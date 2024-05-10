@@ -1,5 +1,7 @@
 # Ex.08 Design of a Standard Calculator
-## Date:
+## Date:03/05/2024
+## Name : H Vishinu 
+## Reg.No : 212223220124
 
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
